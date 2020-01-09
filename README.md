@@ -1,7 +1,7 @@
 # ESTNib
 Easy Nib instantiation in Storyboards
 
-[Medium post](https://medium.com/@thelastalias/loading-a-nib-within-a-storyboard-8bef67d1eca0#.fhztb2rwz)
+This repository is forked from `meetearnest/ESTNib`.
 
 # Usage
 1) Add UIView+ESTNib to your project.
